@@ -1,4 +1,4 @@
-# Rocket.Chat Mobile
+# Rocket.Chat Mobile 5
 
 - **Supported server versions:** 0.70.0+
 - **Supported iOS versions**: 12+
